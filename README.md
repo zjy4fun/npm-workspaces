@@ -1,9 +1,8 @@
 ## npm workspaces
 
-link: https://docs.npmjs.com/cli/v7/using-npm/workspaces
-
-node.js v18.13.0
-npm     8.19.3
+- link: https://docs.npmjs.com/cli/v7/using-npm/workspaces
+- node.js v18.13.0
+- npm     8.19.3
 
 
 ### 使用方式
