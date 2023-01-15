@@ -1,0 +1,23 @@
+{
+  "name": "npm-workspaces",
+  "version": "1.0.0",
+  "description": "link: https://docs.npmjs.com/cli/v7/using-npm/workspaces",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zjy4fun/npm-workspaces.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zjy4fun/npm-workspaces/issues"
+  },
+  "homepage": "https://github.com/zjy4fun/npm-workspaces#readme",
+  "workspaces": [
+    "packages/a",
+    "packages/b"
+  ]
+}

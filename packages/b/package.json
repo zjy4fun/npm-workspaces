@@ -1,0 +1,21 @@
+{
+  "name": "b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "echo \"from workspace B\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zjy4fun/npm-workspaces.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zjy4fun/npm-workspaces/issues"
+  },
+  "homepage": "https://github.com/zjy4fun/npm-workspaces#readme"
+}
